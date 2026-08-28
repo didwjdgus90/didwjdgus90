@@ -1,6 +1,6 @@
 # 양정현 | AI / Backend Developer
 
-기능이 실행되는 것과 **제대로 동작하는 것은 다르다**는 기준으로 개발합니다.  
+기능이 실행되는 것과 **제대로 동작하는 것은 다르다**는 기준으로 개발합니다.
 AI 기능을 구현할 때도 모델 호출 자체보다 **검색 품질, 데이터 흐름, API 계약, 테스트와 검증**까지 확인하는 과정을 중요하게 생각합니다.
 
 ## Focus
@@ -22,10 +22,10 @@ League of Legends 데이터를 기반으로 **RAG · Machine Learning · LLM**�
 - GitHub Actions CI 구성
 - 데이터 수집 → Retrieval → LLM Commentary로 이어지는 서비스 구조 설계
 
-**Tech**  
+**Tech**
 Python · FastAPI · RAG · LLM · Retrieval · PostgreSQL · React
 
-**Repository**  
+**Repository**
 https://github.com/didwjdgus90/lol-commentary-ai
 
 ---
@@ -42,10 +42,10 @@ https://github.com/didwjdgus90/lol-commentary-ai
 - Hard Query 50 기준 **Recall@5 0.640 → 1.000**
 - 실패 질의 분석을 기반으로 Retrieval 구조 개선
 
-**Tech**  
+**Tech**
 Python · FastAPI · LangGraph · LangChain · ChromaDB · RAG
 
-**Team Repository**  
+**Team Repository**
 https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN29-3RD-1Team
 
 ---
@@ -63,13 +63,13 @@ https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN29-3RD-1Team
 - MCP Tool Input / Output Schema 구현
 - 정책 허용·차단 경로 및 단위 테스트 검증
 
-**Tech**  
+**Tech**
 Python · FastAPI · MCP · RAG · PostgreSQL / pgvector · Kotlin · React
 
-**Team Repository**  
+**Team Repository**
 https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN29-FINAL-4TEAM
 
-**Contribution PR**  
+**Contribution PR**
 https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN29-FINAL-4TEAM/pull/24
 
 ---
@@ -80,7 +80,7 @@ SK Networks Family AI Camp 29기에서 학습하고 실습한 내용을 주제�
 
 `Python → Web → ML/DL → NLP → LLM/RAG → Docker/AWS`
 
-**Repository**  
+**Repository**
 https://github.com/didwjdgus90/skn29
 
 ---
@@ -89,10 +89,10 @@ https://github.com/didwjdgus90/skn29
 
 기존 Java Socket 프로그래밍 프로젝트를 Java 17 기반 구조로 다시 설계하고 있는 개인 리팩터링 프로젝트입니다.
 
-**Focus**  
+**Focus**
 Java 17 · TCP Socket · Multi-client Communication · Concurrency · Maven
 
-**Repository**  
+**Repository**
 https://github.com/didwjdgus90/javaproject
 
 ---
